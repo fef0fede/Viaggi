@@ -1,0 +1,20 @@
+<html>
+<head>
+	<title>IBIZA</title>
+</head>
+
+<body>
+	<center><h1><font color="red">I B I Z A</font></h1></center
+<br><br><br><br>
+	<img src="ibiza.jpg">
+<br><br><br>
+<p>Luoghi da visitare a <b>Ibiza</b>
+<ol type="1">
+<li>Cala Conte</li>
+<li>Cala Tarida</li>
+<li>Playa d'en Bossa</li>
+<li>Les Salinas</li>
+</ol>
+<a href="index.html">TORNA ALLA HOME</a>
+</body>
+</html>
